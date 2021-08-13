@@ -1,1 +1,1 @@
-**Strong** __This file is mandatory in all ALX School project__
+__This file is mandatory in all ALX School project__
